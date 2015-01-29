@@ -1,0 +1,16 @@
+{
+  "name": "cnsl-chttr",
+  "description": "to do",
+  "version": "0.0.1",
+  "author": {
+    "name": "Jekt"
+  },
+  "dependencies": {
+    "redis": "^0.10.1",
+    "express": "^3.4.8",
+    "socket.io": "^0.9.16"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
